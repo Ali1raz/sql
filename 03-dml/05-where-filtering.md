@@ -1,4 +1,15 @@
 # WHERE — Filtering
+## Table of Contents
+
+- [Quick Definition](#quick-definition)
+- [Examples](#examples)
+- [Common Mistakes](#common-mistakes)
+- [Performance Notes](#performance-notes)
+- [Practice](#practice)
+- [FAQ](#faq)
+- [Key Takeaways](#key-takeaways)
+- [Next Steps](#next-steps)
+
 
 ## Quick Definition
 

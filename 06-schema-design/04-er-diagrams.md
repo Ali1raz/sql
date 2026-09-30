@@ -1,4 +1,11 @@
 # ER DIAGRAM
+## Table of Contents
+
+- [Quick Definition](#quick-definition)
+- [Beginner — Customer and Orders](#beginner-customer-and-orders)
+- [Intermediate — E-Commerce ERD](#intermediate-e-commerce-erd)
+- [Advanced — Complete Example](#advanced-complete-example)
+
 
 ## Quick Definition
 

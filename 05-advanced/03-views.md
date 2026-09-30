@@ -1,4 +1,14 @@
 # SQL VIEWS
+## Table of Contents
+
+- [Quick Definition](#quick-definition)
+- [The Basic Idea](#the-basic-idea)
+- [Why Views Matter](#why-views-matter)
+- [Syntax](#syntax)
+- [Beginner Example](#beginner-example)
+- [Intermediate Example](#intermediate-example)
+- [Advanced Example](#advanced-example)
+
 
 ## Quick Definition
 

@@ -1,4 +1,15 @@
 # SQL Operators
+## Table of Contents
+
+- [Quick Definition](#quick-definition)
+- [1. Comparison operators](#1-comparison-operators)
+- [2. Arithmetic operators](#2-arithmetic-operators)
+- [3. Logical operators](#3-logical-operators)
+- [5. Concatenation](#5-concatenation)
+- [6. Common advanced operators](#6-common-advanced-operators)
+- [Common Mistakes](#common-mistakes)
+- [FAQ](#faq)
+
 
 ## Quick Definition
 

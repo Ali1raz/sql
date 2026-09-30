@@ -1,4 +1,18 @@
 # CTE — Common Table Expression
+## Table of Contents
+
+- [Quick Definition](#quick-definition)
+- [The Basic Idea](#the-basic-idea)
+- [Syntax](#syntax)
+- [Beginner — Simple CTE](#beginner-simple-cte)
+- [Intermediate — CTE + Aggregation](#intermediate-cte-aggregation)
+- [Intermediate — CTE + JOIN](#intermediate-cte-join)
+- [Advanced — Multiple CTEs](#advanced-multiple-ctes)
+- [Mistake #1 — Forgetting the SELECT after the CTE](#mistake-1-forgetting-the-select-after-the-cte)
+- [Mistake #2 — Forgetting the CTE name](#mistake-2-forgetting-the-cte-name)
+- [Mistake #3 — Using semicolon too early](#mistake-3-using-semicolon-too-early)
+- [Mistake #4 — Assuming a CTE is a permanent table](#mistake-4-assuming-a-cte-is-a-permanent-table)
+
 
 ## Quick Definition
 

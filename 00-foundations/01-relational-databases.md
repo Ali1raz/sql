@@ -1,4 +1,8 @@
 # Relational Databases
+## Table of Contents
+
+- [Quick Definition](#quick-definition)
+
 
 ## Quick Definition
 

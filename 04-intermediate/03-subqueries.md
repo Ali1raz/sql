@@ -1,4 +1,17 @@
 # SQL SUBQUERIES
+## Table of Contents
+
+- [Quick Definition](#quick-definition)
+- [The Basic Idea](#the-basic-idea)
+- [Syntax](#syntax)
+- [Beginner — Subquery Returning One Value](#beginner-subquery-returning-one-value)
+- [Intermediate — Subquery with IN](#intermediate-subquery-with-in)
+- [Intermediate — Subquery with EXISTS](#intermediate-subquery-with-exists)
+- [Advanced — Correlated Subquery](#advanced-correlated-subquery)
+- [Mistake #1 — Subquery returns multiple rows when one value is expected](#mistake-1-subquery-returns-multiple-rows-when-one-value-is-expected)
+- [Mistake #2 — Confusing IN and EXISTS](#mistake-2-confusing-in-and-exists)
+- [Mistake #3 — Forgetting the relationship in a correlated subquery](#mistake-3-forgetting-the-relationship-in-a-correlated-subquery)
+
 
 ## Quick Definition
 

@@ -1,4 +1,18 @@
 # SQL vs NoSQL
+## Table of Contents
+
+- [Quick Definition](#quick-definition)
+- [The Basic Idea](#the-basic-idea)
+- [SQL vs NoSQL](#sql-vs-nosql)
+- [Simple Example](#simple-example)
+- [When to Use SQL](#when-to-use-sql)
+- [When to Use NoSQL](#when-to-use-nosql)
+- [Common Mistakes](#common-mistakes)
+- [Performance Notes](#performance-notes)
+- [FAQ](#faq)
+- [Key Takeaways](#key-takeaways)
+- [Next Steps](#next-steps)
+
 
 ## Quick Definition
 

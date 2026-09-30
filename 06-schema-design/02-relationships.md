@@ -1,4 +1,11 @@
 # DATABASE RELATIONSHIPS
+## Table of Contents
+
+- [Quick Definition](#quick-definition)
+- [Beginner — Customer and Orders](#beginner-customer-and-orders)
+- [Intermediate — Products and Order Items](#intermediate-products-and-order-items)
+- [Advanced — Many-to-Many With Relationship Data](#advanced-many-to-many-with-relationship-data)
+
 
 ## Quick Definition
 

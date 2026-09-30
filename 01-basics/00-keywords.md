@@ -1,4 +1,9 @@
 # SQL Keywords
+## Table of Contents
+
+- [Quick Definition](#quick-definition)
+- [Common Mistakes](#common-mistakes)
+
 
 ## Quick Definition
 

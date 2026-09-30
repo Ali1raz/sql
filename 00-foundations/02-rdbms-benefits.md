@@ -1,4 +1,17 @@
 # RDBMS Benefits and Limitations
+## Table of Contents
+
+- [Quick Definition](#quick-definition)
+- [The Basic Idea](#the-basic-idea)
+- [Benefits](#benefits)
+- [Limitations](#limitations)
+- [Common Mistakes](#common-mistakes)
+- [Performance Notes](#performance-notes)
+- [Practice](#practice)
+- [FAQ](#faq)
+- [Key Takeaways](#key-takeaways)
+- [Next Steps](#next-steps)
+
 
 ## Quick Definition
 

@@ -1,4 +1,11 @@
 # STORED PROCEDURES IN PostgreSQL
+## Table of Contents
+
+- [Quick Definition](#quick-definition)
+- [Beginner Example](#beginner-example)
+- [Intermediate Example](#intermediate-example)
+- [Advanced Example — Validation](#advanced-example-validation)
+
 
 ## Quick Definition
 

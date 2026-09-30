@@ -1,4 +1,16 @@
 # SQL Aggregation
+## Table of Contents
+
+- [Quick Definition](#quick-definition)
+- [Examples](#examples)
+- [Common Mistakes](#common-mistakes)
+- [Performance Notes](#performance-notes)
+- [Practice](#practice)
+- [FAQ](#faq)
+- [Key Takeaways](#key-takeaways)
+- [Next Steps](#next-steps)
+- [PRACTICE:](#practice)
+
 
 ## Quick Definition
 

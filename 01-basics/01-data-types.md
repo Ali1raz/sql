@@ -1,4 +1,15 @@
 # SQL Data Types
+
+## Table of Contents
+
+- [Quick Definition](#quick-definition)
+- [The Basic Idea](#the-basic-idea)
+- [Common Mistakes](#common-mistakes)
+- [Practice](#practice)
+- [FAQ](#faq)
+- [Key Takeaways](#key-takeaways)
+- [Next Steps](#next-steps)
+
 ## Quick Definition
 
 SQL data types define what kind of value a column can store. They tell the database whether a column should contain text, numbers, dates, true/false values, and so on.

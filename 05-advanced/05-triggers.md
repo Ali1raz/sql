@@ -1,4 +1,10 @@
 # SQL TRIGGERS — PostgreSQL
+## Table of Contents
+
+- [Quick Definition](#quick-definition)
+- [The Basic Idea](#the-basic-idea)
+- [Beginner Example — Automatically Set `created_at`](#beginner-example-automatically-set-created_at)
+
 
 ## Quick Definition
 

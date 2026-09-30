@@ -1,4 +1,16 @@
 # ADVANCED WINDOW FUNCTIONS
+## Table of Contents
+
+- [Quick Definition](#quick-definition)
+- [The Basic Idea](#the-basic-idea)
+- [ROW_NUMBER()](#row_number)
+- [RANK()](#rank)
+- [DENSE_RANK()](#dense_rank)
+- [Mistake #1 — Confusing GROUP BY with window functions](#mistake-1-confusing-group-by-with-window-functions)
+- [Mistake #2 — Forgetting ORDER BY for ranking](#mistake-2-forgetting-order-by-for-ranking)
+- [Mistake #3 — Using ROW_NUMBER when ties should share a rank](#mistake-3-using-row_number-when-ties-should-share-a-rank)
+- [Mistake #4 — Trying to use a window function directly in WHERE](#mistake-4-trying-to-use-a-window-function-directly-in-where)
+
 
 ## Quick Definition
 

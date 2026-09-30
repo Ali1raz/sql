@@ -1,4 +1,22 @@
 # SQL JOINs
+## Table of Contents
+
+- [Quick Definition](#quick-definition)
+- [The Basic Idea](#the-basic-idea)
+- [Syntax](#syntax)
+- [1. INNER JOIN](#1-inner-join)
+- [Beginner — Join Users and Orders](#beginner-join-users-and-orders)
+- [Intermediate — JOIN + WHERE](#intermediate-join-where)
+- [Intermediate — JOIN + ORDER BY](#intermediate-join-order-by)
+- [Advanced — JOIN + GROUP BY](#advanced-join-group-by)
+- [Mistake #1 — Forgetting the ON condition](#mistake-1-forgetting-the-on-condition)
+- [Mistake #2 — Joining the wrong columns](#mistake-2-joining-the-wrong-columns)
+- [Mistake #3 — Accidentally turning LEFT JOIN into INNER JOIN](#mistake-3-accidentally-turning-left-join-into-inner-join)
+- [Mistake #4 — Getting duplicate rows](#mistake-4-getting-duplicate-rows)
+- [Exercise 1 — Easy](#exercise-1-easy)
+- [Exercise 2 — Medium](#exercise-2-medium)
+- [Exercise 3 — Hard](#exercise-3-hard)
+
 
 ## Quick Definition
 

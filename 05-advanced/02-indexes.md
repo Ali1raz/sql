@@ -1,4 +1,17 @@
 # SQL INDEXES
+## Table of Contents
+
+- [Quick Definition](#quick-definition)
+- [The Basic Idea](#the-basic-idea)
+- [Beginner — Index a Frequently Searched Column](#beginner-index-a-frequently-searched-column)
+- [Intermediate — Index a Foreign Key](#intermediate-index-a-foreign-key)
+- [Intermediate — Index a Column Used for Sorting](#intermediate-index-a-column-used-for-sorting)
+- [Advanced — Composite Index](#advanced-composite-index)
+- [Mistake #1 — Indexing Everything](#mistake-1-indexing-everything)
+- [Mistake #2 — Ignoring Composite Index Order](#mistake-2-ignoring-composite-index-order)
+- [Mistake #3 — Assuming an Index Guarantees Faster Queries](#mistake-3-assuming-an-index-guarantees-faster-queries)
+- [Mistake #4 — Functions Can Prevent Efficient Index Usage](#mistake-4-functions-can-prevent-efficient-index-usage)
+
 
 ## Quick Definition
 
